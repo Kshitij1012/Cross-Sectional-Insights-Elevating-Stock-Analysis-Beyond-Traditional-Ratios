@@ -1,4 +1,6 @@
-Cross-Sectional Insights: Elevating Stock Analysis Beyond Traditional Ratios
+**Cross-Sectional Insights: Elevating Stock Analysis Beyond Traditional Ratios**
+
+
 Overview
 This project explores the effectiveness of traditional financial ratios in stock market analysis, specifically within the Financial Services sector. 
 Using a combination of cross-sectional analysis and logistic regression, the study aims to provide a more comprehensive set of tools for making informed investment decisions.
