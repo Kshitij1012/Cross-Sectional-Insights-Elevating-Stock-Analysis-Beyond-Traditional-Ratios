@@ -7,10 +7,12 @@ Using a combination of cross-sectional analysis and logistic regression, the stu
 
 
 Introduction
+
 Traditional financial ratios have long been used to gauge a company's financial health. However, this project questions whether these metrics provide comprehensive insights for investment decisions. 
 Motivated by studies such as "Regression Analysis v. Ratios in the Cross-section Analysis of Financial Statements" by R.H. Berry st.al, this research focuses on the Financial Services sector, using cross-sectional analysis and logistic regression to evaluate the impact of various financial ratios on investment decisions.
 
 Methodology
+
 The project utilizes financial statement data of U.S. stock companies from Kaggle's "200+ Financial Indicators of US stocks (2014-2018)" dataset. The methodology includes:
 
 Data Preprocessing: 
